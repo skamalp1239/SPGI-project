@@ -11,6 +11,7 @@ for managing products, orders, users, and more.
     * Shopping cart and checkout
     * Order management
     * Admin panel for managing products, categories, orders, and users
+    * Paypal Payment Gateway
 
 
 # How to run the project
